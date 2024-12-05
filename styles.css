@@ -1,0 +1,50 @@
+body {
+    background-color: #ffebbb;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.name {
+    font-size: 80%;
+    text-align: center;
+}
+
+.symbol {
+    font-size: 200%;
+    text-align: center;
+    margin: -2px;
+    margin-bottom: -7px;
+}
+
+.mass{
+    font-size: 80%;
+}
+
+.number{
+    font-size: 80%;
+}
+
+.element-1 {
+    display:inline-block;
+    background-color: #bbefff;
+    padding: 10px;
+    border-radius: 5px;
+    position: relative;
+    right: 100px;
+    text-align: left;
+    width: 50px;
+}
+
+.element-8 {
+    display:inline-block;
+    background-color: #bbefff;
+    padding: 10px;
+    border-radius: 5px;
+    position: relative;
+    left: 100px;
+    text-align: left;
+    width: 50px;
+}
